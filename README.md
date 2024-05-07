@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osantiagoo02
-- 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning Analysis and systems development
-- 💞️ I’m looking to collaborate on in projects
+- 👋 Hi, I’m @osantiagoo02.
+- 👀 I’m interested in pursuing a career as a software developer.
+- 🌱 I’m currently learning Analysis and systems development.
+- 💞️ I’m looking to collaborate on in projects.

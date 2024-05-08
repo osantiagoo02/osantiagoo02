@@ -2,7 +2,7 @@ Olá! Eu sou Gregory Catapane Santiago
 ##
 👩🏻‍💻 Sobre mim
 - 💡 Gosto de explorar novas tecnologias e desenvolver soluções de software.
-- 🌱 Estou no caminho certo para aprender e aprimorar minhas habilidades como Java, Python, C e SQL Server.
+- 🌱 Estou no caminho certo para aprender e aprimorar minhas habilidades com Java, Python, C e SQL Server.
 - 🎓 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Universidade Paulista.
 - 💭 Sinta-se a vontade para entrar em contato para discutir colaborações, insights no setor ou simplesmente para conectar.
 - 📧 Você pode me enviar um e-mail para catapane.santiago2002@gmail.com!

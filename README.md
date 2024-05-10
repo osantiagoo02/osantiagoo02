@@ -7,6 +7,7 @@ Hello! I am Gregory Catapane Santiago
 - 💭 Feel free to get in touch to discuss collaborations, industry insights or simply to connect.
 - 📧 You can send me an email at catapane.santiago2002@gmail.com!
 - 📄 Please take a look at my resume for more details about me. I'm open to comments and suggestions!
+
 Contact 
 ##
   <a href="https://www.linkedin.com/in/gregorycatapane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

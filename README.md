@@ -19,15 +19,14 @@
 ### About me
 - ✋ Hello! My name is Gregory Catapane Santiago.
 - 🎓 My current goal is to get my first job and, in the future, become a software developer.
-- 👨‍💼 My main stack is Java, Python, C, SQL Server and styled components.
-- 🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.
+- 👨🏻‍💻 My main stack is Java, Python, C, SQL Server and styled components.
+- 🧑🏻‍🦱 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.
 - 💭 Want to talk about technology, games or sports? Send a message!
 - 📧 My email if you want to get in touch: catapane.santiago2002@gmail.com
 
 ##
 
 ### Contact me
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorycatapane/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>

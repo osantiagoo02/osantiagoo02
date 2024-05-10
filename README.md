@@ -1,3 +1,5 @@
+Hi!I'm Gregory!👋🏻
+
 ### About me
 - ✋ Hello! My name is Gregory Catapane Santiago.
 - 🎓 My current goal is to get my first job and, in the future, become a software developer.

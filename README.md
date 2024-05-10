@@ -1,25 +1,33 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
+<div align='center'>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osantiagoo02&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osantiagoo02&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 <div align='center'>
   
-<div align='center'>
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osantiagoo02&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osantiagoo02&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+##
   
-##
-Hello! I am Gregory Catapane Santiago
+### My Stack
+<div>
+<img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+</div>
 
-- 💡 I like exploring new technologies and developing software solutions.
-- 🌱 I'm on the right track to learn and improve my skills with Java, Python, C and SQL Server.
-- 🎓 I'm currently studying Systems Analysis and Development at Universidade Paulista.
-- 💭 Feel free to get in touch to discuss collaborations, industry insights or simply to connect.
-- 📧 You can send me an email at catapane.santiago2002@gmail.com!
-- 📄 Please take a look at my resume for more details about me. I'm open to comments and suggestions!
- 
 ##
-Contact me
+
+### About me
+- ✋ Hello! My name is Gregory Catapane Santiago.
+- 🎓 My current goal is to get my first job and, in the future, become a software developer.
+- 👨‍💼 My main stack is Java, Python, C, SQL Server and styled components.
+- 🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.
+- 💭 Want to talk about technology, games or sports? Send a message!
+- 📧 My email if you want to get in touch: catapane.santiago2002@gmail.com
+
+##
+
+### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorycatapane/)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>

@@ -4,7 +4,7 @@
 ## About me
 - 🧑‍🎓 I am a Systems Analysis and Development student at Universidade Paulista.
 - 💻 My current goal is to get my first job and, in the future, become a software developer.
-- 👨‍💻 My main stack is Java, Python, C, SQL Server and agile methodologies.
+- 👨‍💻 My main stack is Java, Python, C, and agile methodologies.
 - 💭 Want to talk about technology? Send a message!
 - 📧 My email if you want to get in touch: catapane.santiago2002@gmail.com.
 

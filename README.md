@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorycatapane/)
 
 ## About me
-- 🧑‍🎓 I am a Systems Analysis and Development student at Universidade Paulista.
+- 🎓 I am a Systems Analysis and Development student at Universidade Paulista.
 - 💻 My current goal is to get my first job and, in the future, become a software developer.
 - 💭 Want to talk about technology? Send a message!
 - 📧 My email if you want to get in touch: catapane.santiago2002@gmail.com.

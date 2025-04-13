@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Gregory Catapane Santiago. Rodrigues</h1>
+<h1 align="center">👋 Olá! Eu sou o Gregory Catapane Santiago</h1>
 
 
 <p align="center">

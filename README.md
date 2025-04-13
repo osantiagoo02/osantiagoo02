@@ -12,7 +12,12 @@
 
 ## 💻 Habilidades e Ferramentas
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.sql.org/) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.sql.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ---
 
@@ -34,23 +39,29 @@
 
 ---
 
-## 📁 Projetos Pessoais
+## 🧠 Projetos Pessoais
 
 Em breve, estarei desenvolvendo projetos nas seguintes áreas:
 
-- **Análise de Dados com Power BI**: Pretendo criar dashboards interativos para visualização de dados em diferentes contextos, como vendas e desempenho de produtos.
-- **Automação de Processos com Python**: Planejo desenvolver scripts que automatizem tarefas repetitivas e melhorem o fluxo de trabalho com dados.
-- **Consultas SQL**: Pretendo criar consultas otimizadas para análise de dados em bancos de dados, com foco em performance e eficiência.
+- **Análise de Dados com Power BI**: Dashboards interativos com foco em vendas, desempenho e métricas de negócios.  
+- **Automação com Python**: Scripts para coleta, limpeza e manipulação de dados.  
+- **Consultas SQL**: Soluções de análise com consultas otimizadas para bancos de dados reais.  
 
 ---
 
-## 📞 Contato
+## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gregorycatapane/) [![Email](https://img.shields.io/badge/Email-catapane.santiago2002%40gmail.com-brightgreen?logo=gmail)](mailto:catapane.santiago2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gregory%20Catapane-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorycatapane/)
+[![Email](https://img.shields.io/badge/E--mail-catapane.santiago2002%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:catapane.santiago2002@gmail.com)
 
 ---
 
-> "A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
+> _"A única maneira de fazer um excelente trabalho é amar o que você faz."_ — **Steve Jobs**
+
+---
+
+⚡ Obrigado por visitar meu perfil! Volte sempre.  
+
 
 
 

@@ -7,7 +7,7 @@
 ## About me
 
 - 🎓 Undergraduate in Systems Analysis and Development | UNIP
-- 💻 My current goal is to get my first job and, in the future, become a database administrator.
+- 💻 My current goal is to get my first job and, in the future, become a Data Analysis.
 - 💭 Want to talk about technology? Send a message!
 - 📧 My email if you want to get in touch: catapane.santiago2002@gmail.com.
   

@@ -12,7 +12,7 @@
 
 ## 💻 Habilidades e Ferramentas
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.sql.org/) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.sql.org/) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ---
 
@@ -51,7 +51,6 @@ Em breve, estarei desenvolvendo projetos nas seguintes áreas:
 ---
 
 > "A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
-
 
 
 

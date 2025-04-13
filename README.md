@@ -4,9 +4,10 @@
 
 ## 🧑‍💻 Sobre mim
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNIP  
-💻 Meu objetivo atual é conseguir meu primeiro emprego e, no futuro, me tornar Analista de Dados.  
-💭 Quer falar sobre tecnologia? Mande uma mensagem!
+🎓 Graduando em Análise e Desenvolvimento de Sistemas pela UNIP  
+📊 Apaixonado por dados e tecnologia, com foco em transformar informação em valor para os negócios  
+🚀 Em busca da primeira oportunidade na área de dados, com o objetivo de crescer como Analista de Dados  
+💭 Quer falar sobre tecnologia ou trocar experiências? Mande uma mensagem!
 
 ---
 
@@ -43,9 +44,9 @@
 
 Em breve, estarei desenvolvendo projetos nas seguintes áreas:
 
-- **Análise de Dados com Power BI**: Dashboards interativos com foco em vendas, desempenho e métricas de negócios.  
-- **Automação com Python**: Scripts para coleta, limpeza e manipulação de dados.  
-- **Consultas SQL**: Soluções de análise com consultas otimizadas para bancos de dados reais.  
+- **Análise de Dados com Power BI**: Dashboards interativos com foco em vendas, desempenho e métricas de negócios  
+- **Automação com Python**: Scripts para coleta, limpeza e manipulação de dados  
+- **Consultas SQL**: Soluções de análise com consultas otimizadas para bancos de dados reais  
 
 ---
 
@@ -60,7 +61,8 @@ Em breve, estarei desenvolvendo projetos nas seguintes áreas:
 
 ---
 
-⚡ Obrigado por visitar meu perfil! Volte sempre.  
+⚡ Obrigado por visitar meu perfil! Volte sempre.
+
 
 
 

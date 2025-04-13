@@ -1,7 +1,15 @@
-## Hi, I'm Gregory!:D
+<h1 align="center">👋 Olá! Eu sou o Gregory Catapane Santiago. Rodrigues</h1>
+
+
+<p align="center">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas | Focado em Análise de Dados  
+</p>
+
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorycatapane/)
 
 ## About me
+
 - 🎓 I am a Systems Analysis and Development student at Universidade Paulista.
 - 💻 My current goal is to get my first job and, in the future, become a database administrator.
 - 💭 Want to talk about technology? Send a message!

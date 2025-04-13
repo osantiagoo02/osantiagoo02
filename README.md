@@ -29,10 +29,8 @@
 
 ---
 
-<h1 align="esquerda"> 
-  
-  ## Impact phrase>
+## Impact phrase
 
->"Encare cada desafio como uma chance de crescimento".
+"Encare cada desafio como uma chance de crescimento".
 
 ---

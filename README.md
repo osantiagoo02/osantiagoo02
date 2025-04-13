@@ -1,10 +1,8 @@
 <h1 align="center">👋 Hello! I'm Gregory Catapane Santiago</h1>
 
-
 <p align="center">
   🎓 Systems Analysis and Development Student | Focused on Data Analysis  
 </p>
-
 
 ## About me
 

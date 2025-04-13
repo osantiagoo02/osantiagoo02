@@ -14,7 +14,7 @@
 - 📧 My email if you want to get in touch: catapane.santiago2002@gmail.com.
 
 ## Technologies I Use
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img align="center" alt="Gregory-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ## How to find me
 
@@ -31,6 +31,6 @@
 
 ## Impact phrase
 
-"Encare cada desafio como uma chance de crescimento".
+>"Encare cada desafio como uma chance de crescimento".
 
 ---

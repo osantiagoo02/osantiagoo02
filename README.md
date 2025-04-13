@@ -1,18 +1,19 @@
-<h1 align="center">👋 Olá! Eu sou o Gregory Catapane Santiago</h1>
+<h1 align="center">👋 Hello! I'm Gregory Catapane Santiago</h1>
 
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas | Focado em Análise de Dados  
+  🎓 Systems Analysis and Development Student | Focused on Data Analysis  
 </p>
 
 
 ## About me
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas | UNIP
+- 🎓 Undergraduate in Systems Analysis and Development | UNIP
 - 💻 My current goal is to get my first job and, in the future, become a database administrator.
 - 💭 Want to talk about technology? Send a message!
 - 📧 My email if you want to get in touch: catapane.santiago2002@gmail.com.
-
+  
+## how to find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorycatapane/)
 

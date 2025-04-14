@@ -28,6 +28,7 @@
 - **Linguagem de Programação Python** | Fundação Bradesco  
 - **Fundamentos do Power BI** | Fundação Bradesco  
 - **SQL para Análise de Dados** | Udemy
+- **Pacote Office** | Prime Cursos do Brasil
 
 ---
 

@@ -41,16 +41,6 @@
 
 ---
 
-## 🧠 Projetos Pessoais
-
-Em breve, estarei desenvolvendo projetos nas seguintes áreas:
-
-- **Análise de Dados com Power BI**: Dashboards interativos com foco em vendas, desempenho e métricas de negócios  
-- **Automação com Python**: Scripts para coleta, limpeza e manipulação de dados  
-- **Consultas SQL**: Soluções de análise com consultas otimizadas para bancos de dados reais  
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gregory%20Catapane-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorycatapane/)

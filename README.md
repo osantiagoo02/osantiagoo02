@@ -29,6 +29,7 @@
 - **Fundamentos do Power BI** | Fundação Bradesco  
 - **SQL para Análise de Dados** | Udemy
 - **Pacote Office** | Prime Cursos do Brasil
+- **Curso de SQL** | Prime Cursos do Brasil
 
 ---
 

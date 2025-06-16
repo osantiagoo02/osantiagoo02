@@ -22,17 +22,6 @@
 
 ---
 
-## 🏆 Certificações
-
-- **Banco de Dados** | Fundação Bradesco  
-- **Linguagem de Programação Python** | Fundação Bradesco  
-- **Fundamentos do Power BI** | Fundação Bradesco  
-- **SQL para Análise de Dados** | Udemy
-- **Pacote Office** | Prime Cursos do Brasil
-- **Curso de SQL** | Prime Cursos do Brasil
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align='center'>
